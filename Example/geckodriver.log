@@ -1,0 +1,92 @@
+1693915919557	geckodriver	INFO	Listening on 127.0.0.1:49819
+1693915922672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... ocalhost" "-no-remote" "-profile" "c:\\Users\\bisha\\AppData\\Local\\robocorp\\temp\\d67a23d76662ad4b\\rust_mozprofilexDeRM4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693915923211	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1693915923295	Marionette	INFO	Listening on port 49827
+WebDriver BiDi listening on ws://127.0.0.1:49820
+Read port: 49827
+1693915923556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49820/devtools/browser/818084dc-129b-40a1-beb5-06dd09d97879
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c, line 167: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:167:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:111
+
+1693915949225	Marionette	INFO	Stopped listening on port 49827
+Dynamically enable window occlusion 1
+1693915983254	geckodriver	INFO	Listening on 127.0.0.1:49903
+1693915986326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... ocalhost" "-no-remote" "-profile" "c:\\Users\\bisha\\AppData\\Local\\robocorp\\temp\\e9ef6fad3195b9f3\\rust_mozprofileCWofHM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693915986661	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1693915986728	Marionette	INFO	Listening on port 49911
+WebDriver BiDi listening on ws://127.0.0.1:49904
+Read port: 49911
+1693915986951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49904/devtools/browser/8561cbe3-981d-4afd-adc6-c0d35a7eef6c
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c, line 167: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:167:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:111
+
+1693916007463	Marionette	INFO	Stopped listening on port 49911
+Dynamically enable window occlusion 1
+1693916146206	geckodriver	INFO	Listening on 127.0.0.1:50070
+1693916149246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... ocalhost" "-no-remote" "-profile" "c:\\Users\\bisha\\AppData\\Local\\robocorp\\temp\\3dd63f70fd98b061\\rust_mozprofileRQnfHx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693916149576	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1693916149645	Marionette	INFO	Listening on port 50078
+WebDriver BiDi listening on ws://127.0.0.1:50071
+Read port: 50078
+1693916149873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50071/devtools/browser/7364dfd1-c953-42d8-8286-b097b2cfd4fa
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c, line 167: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:167:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:111
+
+1693916178311	Marionette	INFO	Stopped listening on port 50078
+Dynamically enable window occlusion 1
+1693916225126	geckodriver	INFO	Listening on 127.0.0.1:50144
+1693916228203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... ocalhost" "-no-remote" "-profile" "c:\\Users\\bisha\\AppData\\Local\\robocorp\\temp\\9b4143139f8e4821\\rust_mozprofilemMuKkJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693916228519	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1693916228588	Marionette	INFO	Listening on port 50152
+WebDriver BiDi listening on ws://127.0.0.1:50145
+Read port: 50152
+1693916228819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50145/devtools/browser/0f928b5e-df47-4222-a758-c8fa8fd02f2b
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c, line 167: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:167:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-4257LNMWD9&l=dataLayer&cx=c:467:111
+
+1693916356387	Marionette	INFO	Stopped listening on port 50152
+Dynamically enable window occlusion 1
+E_SETTINGS_DEVTOOLS=1 in the environment
+1693916327407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1693916327478	Marionette	INFO	Listening on port 50239
+WebDriver BiDi listening on ws://127.0.0.1:50232
+Read port: 50239
+1693916327707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50232/devtools/browser/ebfb99c8-5fad-43b2-9972-0c8ce64972a9
+1693916331023	Marionette	INFO	Stopped listening on port 50239
+JavaScript warning: https://www.themoviedb.org/assets/2/jquery-3.6.0.min-ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e.js, line 2: Script terminated by timeout at:
+ot@https://www.themoviedb.org/assets/2/jquery-3.6.0.min-ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e.js:2:58859
+
+Dynamically enable window occlusion 1
+1693986242748	geckodriver	INFO	Listening on 127.0.0.1:50408
+1694319219871	geckodriver	INFO	Listening on 127.0.0.1:54904
